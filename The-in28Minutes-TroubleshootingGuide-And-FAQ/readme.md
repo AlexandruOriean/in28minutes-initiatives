@@ -5326,9 +5326,9 @@ In pom.xml file it needs the following dependencys:
 In application.properties:
 
 ```
-spring.datasource.url=jdbc:sybase:Tds:nydbgeqd1.ny.rbcds.com:15600/royalconnect
-spring.datasource.username=u_rcapp
-spring.datasource.password=pHrost2
+spring.datasource.url=jdbc:sybase:Tds:abc:15600/ro
+spring.datasource.username=
+spring.datasource.password=
 spring.datasource.driverClassName=com.sybase.jdbc4.jdbc.SybDriver
 ```
 
